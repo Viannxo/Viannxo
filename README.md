@@ -1,5 +1,5 @@
 ## Yo Wassup👋
-- My name is Eduardo Vianna, Computer Science student at PUC Minas
+- My name is Eduardo Vianna, Computer Science student at PUC Minas.
 
 ## 🛠 Tech Stack
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
