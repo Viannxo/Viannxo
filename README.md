@@ -11,7 +11,8 @@
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viannxo&show_icons=true)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=viannxo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
 
 
 🔭 For now Im focusing on my studies and soon starting to create my own projects.
