@@ -29,6 +29,7 @@ Aberto para aprender com todos, receber conselhos e compartilhar experiências, 
     <td>
       <img
         width="1000"
+        height="800"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=viannxo&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
@@ -37,6 +38,7 @@ Aberto para aprender com todos, receber conselhos e compartilhar experiências, 
     <td>
       <img
         width="800"
+        height="600"
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
@@ -46,6 +48,7 @@ Aberto para aprender com todos, receber conselhos e compartilhar experiências, 
       <br />
       <img
         width="1000"
+        height="800"
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=viannxo&theme=dark&hide_border=false"
         alt="Github Stats"
