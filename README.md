@@ -8,7 +8,7 @@
     height="365"
     width=" 1800"
     align="center" 
-    alt="Header" src="https://raw.githubusercontent.com/Viannxo/Viannxo/refs/heads/main/HeaderVianna.jpeg" />
+    alt="Header" src="https://raw.githubusercontent.com/Viannxo/Viannxo/refs/heads/main/Header.jpeg" />
 
 </div>
 <p>Estudando Ciência da Computação na Puc Minas</p>
