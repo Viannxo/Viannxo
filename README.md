@@ -10,11 +10,11 @@
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+## About me 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=viannxo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 
-## About me 
 🔭 For now Im focusing on my studies and soon starting to create my own projects.
 I look forward to learning and sharing knowledge with the community.
 No momento estou focando nos estudos e em breve começarei a criar meus próprios projetos.
