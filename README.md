@@ -1,7 +1,8 @@
 
 ### Olá, meu nome é Eduardo!
-<img align="center" alt="Header" src="imgVianna"
-
+<div>
+    <img align="center" alt="Header" src="imgVianna" />
+</div>
 
 <p>Estudando Ciência da Computação na Puc Minas</p>
 
