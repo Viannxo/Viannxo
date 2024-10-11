@@ -22,7 +22,7 @@ Estou ansioso para aprender e compartilhar conhecimentos com a comunidade.
 
 💬Aberto para aprender com todos, receber conselhos e compartilhar experiências, entre em contato comigo pelo LinkedIn.
 - [LinkedIn](https://www.linkedin.com/in/eduardo-vianna-meira-9590072b8/)
-
+- [Instagram](https://www.instagram.com/eduvmeira/?hl=pt-br)
 ---
 
 ### ⚙️ GitHub Analytics
@@ -76,12 +76,3 @@ Estou ansioso para aprender e compartilhar conhecimentos com a comunidade.
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/viannxo/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
