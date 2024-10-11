@@ -1,6 +1,6 @@
-### Olá, meu nome é Eduardo!
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vianna&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+### Olá, meu nome é Eduardo!
 
 <p>Estudando Ciência da Computação na Puc Minas <br/> Eu sou desenvolvedor {sua stack}</p>
 
