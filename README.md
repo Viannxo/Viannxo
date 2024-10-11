@@ -24,6 +24,10 @@
 
 ## About me 
 
+🔎I'm Eduardo Vianna, a Computer Science student at PUC Minas. I'm passionate about IA, software development, data base and cybersecurity. At the moment Im focused and inproving my programming knowledge and learning programming languagues that I can use in any different programs.
+
+🔎Sou Eduardo Vianna, estudante de Ciência da Computação na PUC Minas. Sou apaixonado por IA, desenvolvimento de software, banco de dados e segurança cibernética. No momento estou focado e aprimorando meus conhecimentos de programação e aprendendo linguagens de programação que posso utilizar em diversos programas.
+
 🔭 For now Im focusing on my studies and soon starting to create my own projects.
 I look forward to learning and sharing knowledge with the community.
 
