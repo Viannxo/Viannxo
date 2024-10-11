@@ -1,7 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=Vianna&color=f8efd4&style=for-the-badge&logo=GitHub"  alt="Static GitHub">
-
-
-### Olá, meu nome é Eduardo!
+<img src="https://img.shields.io/static/v1?label=Overview&message=Eduardo Vianna&color=f8efd4&style=for-the-badge&logo=GitHub"  alt="Static GitHub">
 
 <div>
 <img
