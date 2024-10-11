@@ -4,8 +4,7 @@
 
 <div>
 <img
-    heigh= " 1600"
-    width=" 3000"
+    width=" 2300"
     align="center" 
     alt="Header" src="https://raw.githubusercontent.com/Viannxo/Viannxo/refs/heads/main/HeaderVianna.jpeg" />
 
