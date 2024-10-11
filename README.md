@@ -40,7 +40,7 @@ Estou ansioso para aprender e compartilhar conhecimentos com a comunidade.
     <td>
       <br />
       <img
-        width="1400"
+        width="1300"
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=viannxo&theme=dark&hide_border=false"
         alt="Github Stats"
