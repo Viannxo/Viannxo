@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Eduardo!
 
-<p>Estudando Ciência da Computação na Puc Minas <br/> Eu sou desenvolvedor {sua stack}</p>
+<p>Estudando Ciência da Computação na Puc Minas</p>
 
 ## 🛠 Tech Stack
 - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
