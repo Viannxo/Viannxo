@@ -36,7 +36,7 @@ Aberto para aprender com todos, receber conselhos e compartilhar experiências, 
     </td>
     <td>
       <img
-        width="800"
+        width="1400"
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
