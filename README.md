@@ -3,7 +3,11 @@
 ### Olá, meu nome é Eduardo!
 
 <div>
-<img align="center" alt="Header" src="https://raw.githubusercontent.com/Viannxo/Viannxo/refs/heads/main/HeaderVianna.jpeg" />
+<img
+    heigh= " 2000"
+    width=" 400"
+    align="center" 
+    alt="Header" src="https://raw.githubusercontent.com/Viannxo/Viannxo/refs/heads/main/HeaderVianna.jpeg" />
 
 </div>
 <p>Estudando Ciência da Computação na Puc Minas</p>
