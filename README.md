@@ -1,7 +1,7 @@
 
 ### Olá, meu nome é Eduardo!
 <div>
-    <img align="center" alt="Header" src="imgVianna" />
+    <img align="center" alt="Header" src="https://github.com/Viannxo/Viannxo/blob/main/imgVianna" />
 </div>
 
 <p>Estudando Ciência da Computação na Puc Minas</p>
