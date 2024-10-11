@@ -1,8 +1,6 @@
+<img src="https://img.shields.io/static/v1?label=Overview&message=Vianna&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ### Olá, meu nome é Eduardo!
-<div>
-    <img align="center" alt="Header" src="https://github.com/Viannxo/Viannxo/blob/main/imgVianna" />
-</div>
 
 <p>Estudando Ciência da Computação na Puc Minas</p>
 
