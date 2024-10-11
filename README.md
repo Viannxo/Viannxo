@@ -31,14 +31,6 @@ Estou ansioso para aprender e compartilhar conhecimentos com a comunidade.
   <tr>
     <td>
       <img
-        width="1400"
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=viannxo&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
         width="1200"
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannxo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
