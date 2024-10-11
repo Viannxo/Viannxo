@@ -21,6 +21,7 @@ Estou ansioso para aprender e compartilhar conhecimentos com a comunidade.
 LinkedIn (id: Eduardo Vianna Meira).
 Aberto para aprender com todos, receber conselhos e compartilhar experiências, entre em contato 
 comigo pelo LinkedIn (id: Eduardo Vianna Meira).
+
 ---
 
 ### ⚙️ GitHub Analytics
