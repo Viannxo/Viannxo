@@ -17,8 +17,9 @@ I look forward to learning and sharing knowledge with the community.
 No momento estou focando nos estudos e em breve começarei a criar meus próprios projetos.
 Estou ansioso para aprender e compartilhar conhecimentos com a comunidade.
 
-💬 Open to learn from everyone, get advices and share experiences, get in contact with me by LinkedIn (id: Eduardo Vianna Meira).
-Aberto para aprender com todos, receber conselhos e compartilhar experiências, entre em contato comigo pelo LinkedIn (id: Eduardo Vianna Meira).
+💬 Open to learn from everyone, get advices and share experiences, get in contact with me by LinkedIn. 
+Aberto para aprender com todos, receber conselhos e compartilhar experiências, entre em contato comigo pelo LinkedIn.
+- [LinkedIn](https://www.linkedin.com/in/eduardo-vianna-meira-9590072b8/)
 
 ---
 
