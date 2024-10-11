@@ -5,7 +5,7 @@
 <div>
 <img
     heigh= " 2000"
-    width=" 400"
+    width=" 4000"
     align="center" 
     alt="Header" src="https://raw.githubusercontent.com/Viannxo/Viannxo/refs/heads/main/HeaderVianna.jpeg" />
 
