@@ -4,7 +4,7 @@
 
 <div>
 <img
-    width=" 2300"
+    width=" 1800"
     align="center" 
     alt="Header" src="https://raw.githubusercontent.com/Viannxo/Viannxo/refs/heads/main/HeaderVianna.jpeg" />
 
