@@ -28,7 +28,7 @@ Aberto para aprender com todos, receber conselhos e compartilhar experiências, 
   <tr>
     <td>
       <img
-        width="800"
+        width="1000"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=viannxo&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
@@ -45,7 +45,7 @@ Aberto para aprender com todos, receber conselhos e compartilhar experiências, 
     <td>
       <br />
       <img
-        width="800"
+        width="1000"
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=viannxo&theme=dark&hide_border=false"
         alt="Github Stats"
