@@ -1,7 +1,7 @@
 # 
 
 <!-- BANNER: Após subir sua imagem no repositório, descomente a linha abaixo e delete o banner temporário -->
-<img src="/banner.jpeg" width="100%" alt="banner" width = "100%"/> -->
+<img src="/banner.jpeg" width="100%" alt="banner" width = "100%"/> 
 
 
 <div align="center">
@@ -18,9 +18,9 @@
 
 **🇧🇷 Olá!** Sou **Eduardo Vianna**, estudante de Ciência da Computação na **PUC Minas**.
 
-Apaixonado por **IA**, desenvolvimento de software, banco de dados e segurança cibernética. Focado em aprimorar meus conhecimentos e aprender novas linguagens de programação.
+Facinado por **IA**, desenvolvimento de software, banco de dados e automação. Focado em aprimorar meus conhecimentos e aprender novas linguagens de programação.
 
-**🇺🇸 Hi!** I'm **Eduardo Vianna**, a CS student at **PUC Minas**, passionate about AI, software development, databases and cybersecurity.
+**🇺🇸 Hi!** I'm **Eduardo Vianna**, a CS student at **PUC Minas**, passionate about AI, software development, databases and automation.
 
 | | |
 |---|---|
@@ -54,9 +54,11 @@ Apaixonado por **IA**, desenvolvimento de software, banco de dados e segurança 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viannxo&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viannxo&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=Viannxo&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=ffffff&dates=6b7280" alt="GitHub Streak"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
