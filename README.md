@@ -77,15 +77,11 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" title="Java" />
 
-<br/><br/>
-
-**C** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Java**
-
 <br/>
 
 ### Ferramentas & Ambiente
 
-<br/>
+
 
 <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git" />
 &nbsp;&nbsp;
