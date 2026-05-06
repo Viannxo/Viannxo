@@ -54,11 +54,10 @@ Facinado por **IA**, desenvolvimento de software, banco de dados e automação. 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viannxo&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=Viannxo&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=ffffff&dates=6b7280" alt="GitHub Streak"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight" alt="Top Languages"/>
+
 
 </div>
 
