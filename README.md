@@ -14,7 +14,6 @@
 
 ## 👾 Sobre mim | About me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Viannxo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7&include_all_commits=true&count_private=true" alt="stats"/>
 
 **🇧🇷 Olá!** Sou **Eduardo Vianna**, estudante de Ciência da Computação na **PUC Minas**.
 
