@@ -21,6 +21,8 @@ Facinado por **IA**, desenvolvimento de software, banco de dados e automação. 
 
 **🇺🇸 Hi!** I'm **Eduardo Vianna**, a CS student at **PUC Minas**, passionate about AI, software development, databases and automation.
 
+Fascinated by **AI**, software development, databases, and automation. Focused on expanding my knowledge and learning new programming languages.
+
 | | |
 |---|---|
 | 🎓 | PUC Minas — Ciência da Computação |
